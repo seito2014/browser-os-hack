@@ -1,0 +1,18 @@
+{
+  "name": "browser-os-hack",
+  "version": "0.0.0",
+  "homepage": "https://twitter.com/seito_horiguchi",
+  "authors": [
+    "堀口誠人 <horiguchi_seito@liginc.co.jp>"
+  ],
+  "main": "browseroshack.js",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
